@@ -9,7 +9,7 @@ It is designed to help teams plan projects, manage tasks, collaborate in real ti
 ## Product Demo
 
 - **[Full Demo Video](https://drive.google.com/file/d/1XOdcxa0zW00zyeqoZ9Q7BljMus7r3DYX/view?usp=drive_link)** — Complete walkthrough of every feature
-- **[Short Walkthrough](https://drive.google.com/file/d/15SEVYu7JZ-3FQi9TEmiuLAu0AvfnHyDh/view?usp=drive_link)** — Quick overview of the main workflow
+- **[Short Walkthrough (PDF)](https://drive.google.com/file/d/1wIU8041FF0U3sAnBDhVR1czlMNM0t6Z2/view?usp=drive_link)** — Quick overview of the main workflow
 
 The demos showcase the main Orbit workflow, including authentication, organizations, project management, Kanban boards, tasks, AI-powered features, collaboration, analytics, and subscription management.
 
