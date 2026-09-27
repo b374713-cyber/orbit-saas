@@ -5,29 +5,6 @@
   Kanban · Real-time Chat · AI Planning · Milestones · Analytics · Stripe Subscriptions
 </p>
 
-<p align="center">
-  <a href="https://github.com/b374713-cyber/orbit-saas/stargazers">
-    <img src="https://img.shields.io/github/stars/b374713-cyber/orbit-saas?style=for-the-badge" alt="Stars"/>
-  </a>
-  <a href="https://github.com/b374713-cyber/orbit-saas/network/members">
-    <img src="https://img.shields.io/github/forks/b374713-cyber/orbit-saas?style=for-the-badge" alt="Forks"/>
-  </a>
-  <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" alt="License"/>
-  <img src="https://img.shields.io/badge/status-production--ready-success?style=for-the-badge" alt="Status"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NestJS-12-E0234E?style=flat-square&logo=nestjs" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=next.js" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Prisma-7-2D3748?style=flat-square&logo=prisma" alt="Prisma"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-15-4169E1?style=flat-square&logo=postgresql" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-7-DC382D?style=flat-square&logo=redis" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Stripe-Payments-635BFF?style=flat-square&logo=stripe" alt="Stripe"/>
-  <img src="https://img.shields.io/badge/Groq-AI-FF6B35?style=flat-square" alt="Groq AI"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" alt="Docker"/>
-</p>
-
 ---
 
 ## 🎥 Demo
